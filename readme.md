@@ -1,0 +1,2 @@
+#myprofile
+say hello
